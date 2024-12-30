@@ -29,7 +29,7 @@ You can type report at any time to view the current resources and profit.
 To turn off the machine, type off.
 
 # Example
-'''
+```
 What would you like?: (espresso/latte/cappuccino): latte
 Please input coins.
 How many quarters?: 2
@@ -38,7 +38,7 @@ How many nickels?: 1
 How many pennies?: 3
 Here is $0.1 dollars in change.
 Here is your latte. Enjoy!
-'''
+```
 # Functions
 resource_check(ingredients): Checks if there are enough resources to prepare the selected drink.
 process_coins(): Prompts the user to input coins and calculates the total amount.
