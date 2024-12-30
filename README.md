@@ -11,15 +11,15 @@ Interactive: Command-line interface where users can interact with the coffee mac
 
 # Installation
 1. Clone this repository to your local machine:
-
+```
 git clone https://github.com/RyanSofoul/coffeeMachine.git
-
+```
 2. Ensure Python 3 is installed on your system.
 
 3. Run the project:
-
+```
 python main.py
-
+```
 # Usage
 Upon running the program, you'll be prompted to choose a drink.
 The machine will check if there are enough resources to make the drink.
